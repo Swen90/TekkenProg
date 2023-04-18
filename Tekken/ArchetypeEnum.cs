@@ -9,8 +9,9 @@ namespace Tekken
     public enum ArchetypeEnum
     {
         Fiftyfifty,
-        Grabling,
+        Grappler,
         Poking,
-        Rushdown
+        Rushdown,
+        CounterHit
     }
 }
